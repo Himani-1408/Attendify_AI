@@ -52,7 +52,7 @@ with col2:
 
     if st.button("Send Message"):
         if name and email and message:
-            st.success("✅ Message sent successfully!")
+            st.success("📧 Email support is currently under development. Coming Soon!")
         else:
             st.error("⚠️ Please fill all fields")
 
