@@ -1,5 +1,9 @@
 flask
-opencv-python
+opencv-python-headless
 numpy
 pandas
 streamlit
+matplotlib
+face-recognition
+Pillow
+openpyxl
