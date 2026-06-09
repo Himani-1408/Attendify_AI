@@ -1,9 +1,9 @@
+streamlit
 flask
-opencv-python-headless
+opencv-python
 numpy
 pandas
-streamlit
 matplotlib
 face-recognition
+face-recognition-models
 Pillow
-openpyxl
